@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Icon2.cs" type="Script" id=1]
+[ext_resource path="res://Icon.gd" type="Script" id=2]
+[ext_resource path="res://icon.png" type="Texture" id=3]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Icon" type="Sprite" parent="."]
+position = Vector2( 423, 127 )
+texture = ExtResource( 3 )
+script = ExtResource( 2 )
+
+[node name="Icon2" type="Sprite" parent="."]
+position = Vector2( 424, 282 )
+texture = ExtResource( 3 )
+script = ExtResource( 1 )

@@ -1,0 +1,9 @@
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\bin\Debug\FirstProject.dll
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\bin\Debug\FirstProject.pdb
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\obj\Debug\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\obj\Debug\FirstProject.AssemblyInfoInputs.cache
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\obj\Debug\FirstProject.AssemblyInfo.cs
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\obj\Debug\FirstProject.dll
+C:\Users\alexr\Documents\Godot\FirstProject\.mono\temp\obj\Debug\FirstProject.pdb
